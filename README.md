@@ -1,5 +1,2 @@
-# wdd230examples bug 1
+# wdd230examples
 
-# another thing
-
-# another
